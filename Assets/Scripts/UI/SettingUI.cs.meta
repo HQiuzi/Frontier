@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e8d7c8c98c6fde742b0e67ac53de6375
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - farmLand: {fileID: 11400000, guid: 1a91ecda792d79144bb9985f1763a640, type: 2}
+  - forest: {fileID: 11400000, guid: 7f17865a6f0b25245ad33e5ee368c56d, type: 2}
+  - stone: {fileID: 11400000, guid: 92feeda209ff60a459850718f132935a, type: 2}
+  - factory1: {fileID: 11400000, guid: f1eb0159f885d6845b2778e9bcc024ce, type: 2}
+  - gameData: {fileID: 11400000, guid: dd06efa72451f2a4abd0b5f434887dcc, type: 2}
+  - terrianBuildings1: {fileID: 11400000, guid: 4e1220fed8fc54dc8b9c85f7959aaebb,
+      type: 2}
+  - terrianBuildings2: {fileID: 11400000, guid: a1fb840f49c9947d4bda45bda76be151,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
